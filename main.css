@@ -388,7 +388,7 @@ body {
 .price-chart {
   position: absolute;
   top: 20%;
-  right: 5%;
+  right: 10%;
   display: flex;
   flex-direction: column;
   align-items: center;
